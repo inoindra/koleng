@@ -5,19 +5,19 @@
      "Password": "999dice"
      },
  "Target Profit": "1",
- "Target Win": "999.00000000",
- "Lose Target": "200.00000",
+ "Target Win": "150",
+ "Lose Target": "80",
  "Interval": "0",
  "Config": [{
 
      "Name Bet Set": "Ulo2an",
-     "Base Bet": "0.01",
+     "Base Bet": "0.001",
      "Max Bet": "OFF",
-     "Chance": "22.22",
+     "Chance": "55.55",
      "Random Chance": {
           "Toggle": "ON",
-          "Min": "20",
-          "Max": "25"
+          "Min": "50",
+          "Max": "65"
         },
      "Bet": {
           "Bet": "Hi",
@@ -27,11 +27,11 @@
               "If Win": "3"
             }
         },
-     "If Win": "0.7",
-     "If Lose": "1.25",
-     "Reset If Win": "1",
-     "Reset If Profit": "OFF",
-     "Interval": "1"
+     "If Win": "0.50012345",
+     "If Lose": "2.00012345",
+     "Reset If Win": "3",
+     "Reset If Profit": "0.00000001",
+     "Interval": "0"
      }
   ],
   "User-Agent": "Mozilla/5.0 (Linux; Android 8.1.0; vivo 1807 Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.89 Mobile Safari/537.36"
